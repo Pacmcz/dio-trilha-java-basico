@@ -13,6 +13,7 @@ public class AppTelefone implements Telefone {
 
     @Override
     public void iniciarCorreioDeVoz() {
+
         System.out.println("Iniciando Correio de Voz");
     }
 }

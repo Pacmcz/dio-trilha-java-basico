@@ -3,6 +3,7 @@ package DesafioIphone.AppMusic;
 public class AppMusic implements ReprodutorMusical {
 
     @Override
+
     public void selecionarMusica(String musica) {
         System.out.println("\nTocando a música selecionada   →  " + musica);
         tocar();

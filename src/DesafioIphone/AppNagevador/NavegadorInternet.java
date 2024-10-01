@@ -1,5 +1,6 @@
 package DesafioIphone.AppNagevador;
 
+
 public interface NavegadorInternet {
 
     public void exibirPagina (String pagina);
